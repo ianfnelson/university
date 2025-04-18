@@ -1,0 +1,40 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux file trash
+.Trash-*
+
+# VS Code settings
+.vscode/
+
+# Node modules (if using any tools like npm)
+node_modules/
+
+# Optional: dist/ or build/ if you’re generating static files
+dist/
+build/
+
+# Logs
+*.log
+
+# Env files (if you happen to use them)
+.env
+.env.*
+
+# Editor swap/backup files
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Output of Hugo, Jekyll, etc. (comment out if not using)
+public/
+_site/
